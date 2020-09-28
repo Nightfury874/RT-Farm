@@ -9,8 +9,11 @@
 
 
  Circuit Diagram is
+ 
+ 
 ![001](Images/001.PNG)
 
 Some Images of the bot:
+
 ![002](Images/002.PNG)
 ![003](Images/003.PNG)
