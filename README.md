@@ -7,6 +7,10 @@
   
 ## Complete Working has been discussed
 
-## Images of the bot can be seen in the image directory
-## Circuit Diagram is
+
+ Circuit Diagram is
 ![001](Images/001.PNG)
+
+Some Images of the bot:
+![002](Images/002.PNG)
+![003](Images/003.PNG)
