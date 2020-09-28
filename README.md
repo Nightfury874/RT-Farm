@@ -9,4 +9,4 @@
 
 ## Images of the bot can be seen in the image directory
 ## Circuit Diagram is
-![001](Images/001.png)
+![001](Images/001.PNG)
