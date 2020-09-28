@@ -6,3 +6,7 @@
 ###  Phase 4: Incorporating ML models                   Status: Under Development <br>
   
 ## Complete Working has been discussed
+
+## Images of the bot can be seen in the image directory
+## Circuit Diagram is
+![Rocket](Images/Circuit RTFARM.png)
