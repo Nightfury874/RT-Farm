@@ -9,4 +9,4 @@
 
 ## Images of the bot can be seen in the image directory
 ## Circuit Diagram is
-![Rocket](Images/Circuit RTFARM.png)
+![Rocket](Images/001.png)
